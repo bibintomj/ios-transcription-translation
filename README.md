@@ -11,8 +11,12 @@ The UI is built using **SwiftUI**, and the app supports importing `.mp3` files, 
 ---
 
 ## 📽 Demo
+YouTube: [`View`](https://youtu.be/KNnbuL3pf-A)
 
-View Demo: [`Video`](./Demo)
+[![Watch the video](https://img.youtube.com/vi/KNnbuL3pf-A/hqdefault.jpg)](https://www.youtube.com/watch?v=KNnbuL3pf-A)
+
+
+
 
 ---
 
